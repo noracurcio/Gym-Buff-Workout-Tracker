@@ -14,7 +14,7 @@ const WorkoutSchema = new Schema({
                     type: String,
                     trim: true,
                     required: "This is required"
-                 
+                
                 }, 
             name: {
         
